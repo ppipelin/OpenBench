@@ -28,6 +28,7 @@
     ],
 
     "engines" : [
+	"radiance",
         "4ku",
         "Berserk",
         "Bit-Genie",
